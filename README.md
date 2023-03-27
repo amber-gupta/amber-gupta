@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amber-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="amber-gupta" /> </p>
 
+- 👯 I’m looking to collaborate on New Projects and Ideas
+
 - 💬 Ask me about **SQL , Data Analytics , Tableau**
 
 - 📫 How to reach me **ambergupta516@gmail.com**
