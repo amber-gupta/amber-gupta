@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on New Projects and Ideas
 
-- 💬 Ask me about **SQL , Data Analytics , Tableau**
+- 💬 Ask me about **SQL , Data Analytics , Tableau and Power BI**
 
 - 📫 How to reach me **ambergupta516@gmail.com**
 
